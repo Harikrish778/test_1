@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+/* #blglayot{
+    color: rgb(163, 175, 112);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 50px
+}
+#ctgries{
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-weight: bold; */
+
+#bgph{
+    width: 100%;
+    background-image: url(./images/lifestyle-mens-fashion-in-manchester.jpg);
+    background-repeat: no-repeat;
+    background-color: antiquewhite;
+    background-size: cover;
+    height: 600px;
+    
+}
+.firstimg{
+    position: absolute;
+    left: 10px;
+}
+#stack{
+    background-color: white;
+    
+    width: 500px;
+    height: 200px;
+    position: relative;
+}
+#Fashion{
+    font-size: medium; 
+    font-weight: bold;
+    position: absolute;
+    top: 50px;
+    left: 220px;
+}
+#mous{
+    
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    position: absolute;
+    font-size: x-large;
+    top: 70px;
+    left: 140px;
+      
+}
+#aug{
+
+    position: absolute;
+    top: 100px;
+    left: 140px;
+
+}
